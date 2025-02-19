@@ -7,7 +7,7 @@ function evilFish() {
 
     const caughtFishData = getWeightedCatch('fish')
     //set the values lol!
-    caughtFishData.name = 'test'
+    caughtFishData.name = '🍍'
     caughtFishData.sellable = true
     caughtFishData.size = true
     caughtFishData.price = 0
