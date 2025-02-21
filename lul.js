@@ -26,6 +26,6 @@ function evilFish() {
     saveState();
     updateUI();
     logMessage(
-      `fish inserted: ${fishType}. ${sizeString} dont submit to the leaderboard`
+      `fish inserted: ${fishType}. ${sizeString}`
     );
 }
