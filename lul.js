@@ -26,6 +26,6 @@ function evilFish() {
     saveState();
     updateUI();
     logMessage(
-      `fish inserted: ${fishType}. ${sizeString}`
+      `ooooo im evil as fuck im making evil fish ${fishType}. ${sizeString}`
     );
 }
